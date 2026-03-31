@@ -6,8 +6,7 @@ This project implements a complete **Business Intelligence (BI) solution** using
 The project simulates a real-world analytics workflow, covering everything from schema design and automated data ingestion to performance reporting and decision support.
 
 ## Database Schema & ER Diagram
-![ER Diagram](visuals/er_diagram.png) 
-*(Note: Replace the link above with your actual image path)*
+https://github.com/shakarovamadina33-png/Bike_Store_Analysis/blob/main/Diagram/photo_2026-03-31_20-51-55.jpg
 
 **Description:**
 This ER diagram represents the **normalized relational database schema** for the Bike Store sales system.The schema is designed to support transactional sales analysis, inventory tracking, and staff performance reporting.It includes core entities such as Orders, Customers, Products, Stores, Staff, and Inventory.
